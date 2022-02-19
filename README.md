@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-wso2am-orange)](https://stackoverflow.com/tags/wso2-am/)
 [![slack](https://img.shields.io/badge/slack-wso2--apim-blueviolet)](https://join.slack.com/t/wso2-apim/shared_invite/enQtNzEzMzk5Njc5MzM0LTgwODI3NmQ1MjI0ZDQyMGNmZGI4ZjdkZmI1ZWZmMjNkY2E0NmY3ZmExYjkxYThjNzNkOTU2NWJmYzM4YzZiOWU?src=sidebar)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDilanUA%2Fproduct-apim-1.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDilanUA%2Fproduct-apim-1?ref=badge_shield)
 
 ---
 
@@ -277,3 +278,6 @@ Crypto Notice
 
 --------------------------------------------------------------------------------
 (c) Copyright 2020 WSO2 Inc.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDilanUA%2Fproduct-apim-1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDilanUA%2Fproduct-apim-1?ref=badge_large)
